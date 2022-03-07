@@ -8,8 +8,7 @@ export default function Home() {
        <title>Hulu Clone</title>
      </Head>
      <Header />
-
-     {/* Nav */}
+     <Navbar />
 
      {/* Results */}
    </div>
