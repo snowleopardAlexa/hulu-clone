@@ -1,19 +1,17 @@
-import styles from '../styles/Home.module.css'
-import Head from "next/Head";
+import Head from "next/head";
+import Header from "../components/Header";
 
 export default function Home() {
   return (
-   <div className="app">
+   <div>
      <Head>
        <title>Hulu Clone</title>
      </Head>
-     <h1>Hello Alexa</h1>
-
-     {/* Header */}
+     <Header />
 
      {/* Nav */}
 
      {/* Results */}
    </div>
-  )
+  );
 }
