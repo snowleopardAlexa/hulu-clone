@@ -1,4 +1,5 @@
 import requests from "../utils/requests";
+import { useRouter } from 'next/router'
 
 const Navbar = () => {
 
@@ -19,9 +20,7 @@ const router = useRouter();
           </h2>
         ))}
       </div>
-      <div className="absolute top-0 right-0 bg-gradient-to-l from-[#06202A] to-white h-10 w-1/12">
-
-      </div>
+      <div className="absolute top-0 right-0 bg-gradient-to-l from-[#06202A] h-10 w-1/12" />
     </nav>
   );
 };
