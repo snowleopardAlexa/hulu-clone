@@ -40,6 +40,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#dependencies">Dependencies</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -81,6 +82,16 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+  
+### Dependencies
+* @heroicons/react: "^1.0.6,
+* next: "12.1.0,
+* react: "17.0.2,
+* react-dom: "17.0.2",
+* react-flip-move: "^3.0.4",
+* tailwind-scrollbar-hide: "^1.1.7",
+* tailwindcss": "^3.0.23"
+  
 
 ### Installation
 
