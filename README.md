@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Hulu-Clone
 
-![Alt text](/public/hulu-clone-compressed.jpg?raw=true "Hulu Clone")(https://hulu-clone-snowleopardalexa.vercel.app/)
+![Alt text](/public/hulu-clone-compressed.jpg?raw=true "Hulu Clone") https://hulu-clone-snowleopardalexa.vercel.app/
 
 ### Built With
 
