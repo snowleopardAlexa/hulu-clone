@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/snowleopardAlexa/instagram-clone">
+  <a href="https://github.com/snowleopardAlexa/hulu-clone">
     <img src="/public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,7 +13,7 @@
   <p align="center">
     This is a Hulu Clone that represents basic functionality - landing page of Hulu where you can see movies that are fetched from TMDB API. Menu icons and movies categories are displayed as header of the page. 
     <br />
-    <a href="https://github.com/snowleopardAlexa/medium-clone"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/snowleopardAlexa/hulu-clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://hulu-clone-snowleopardalexa.vercel.app/">View Demo</a>
@@ -39,9 +39,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#dependencies">Dependencies</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#dependencies">Dependencies</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -74,25 +73,7 @@
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-  
-### Dependencies
-* @heroicons/react: "^1.0.6,
-* next: "12.1.0,
-* react: "17.0.2,
-* react-dom: "17.0.2",
-* react-flip-move: "^3.0.4",
-* tailwind-scrollbar-hide: "^1.1.7",
-* tailwindcss": "^3.0.23"
-  
-
+ 
 ### Installation
 
 1. Clone the repo
@@ -107,6 +88,16 @@ This is an example of how to list things you need to use the software and how to
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+   
+### Dependencies
+
+* @heroicons/react: "^1.0.6,
+* next: "12.1.0,
+* react: "17.0.2,
+* react-dom: "17.0.2",
+* react-flip-move: "^3.0.4",
+* tailwind-scrollbar-hide: "^1.1.7",
+* tailwindcss": "^3.0.23"
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
