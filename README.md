@@ -56,13 +56,14 @@
 <!-- ABOUT THE PROJECT -->
 ## Hulu-Clone
 
-![Alt text](/public/hulu-clone-compressed.jpg?raw=true "Instagram Clone")(https://hulu-clone-snowleopardalexa.vercel.app/)
+![Alt text](/public/hulu-clone-compressed.jpg?raw=true "Hulu Clone")(https://hulu-clone-snowleopardalexa.vercel.app/)
 
 ### Built With
 
 * [React.js](https://reactjs.org/)
 * [Next.js](https://nextjs.org/)
 * [TailwindCSS](https://tailwindcss.com/)
+* [TMDB](https://developers.themoviedb.org/3)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -91,7 +92,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Create the account with TDMB, create local .env file and enter your TDBM API key there.
+4. Create the account with TMDB, create local .env file and enter your TMDB API key there.
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
