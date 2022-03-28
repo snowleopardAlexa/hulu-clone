@@ -18,9 +18,9 @@
     <br />
     <a href="https://hulu-clone-snowleopardalexa.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/github_snowleopardAlexa/hulu-clone/issues">Report Bug</a>
+    <a href="https://github.com/snowleopardAlexa/hulu-clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_snowleopardAlexa/hulu-clone/issues">Request Feature</a>
+    <a href="https://github.com/snowleopardAlexa/hulu-clone/issues">Request Feature</a>
   </p>
 </div>
 
@@ -80,11 +80,11 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Create the account with TMDB, create local .env file and enter your TMDB API key there.
+3. Create the account with TMDB, create local .env file and enter your TMDB API key there.
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
